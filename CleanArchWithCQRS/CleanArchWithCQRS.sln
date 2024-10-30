@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchWithCQRS.API", "CleanArchWithCQRS.API\CleanArchWithCQRS.API.csproj", "{732A978A-748E-44BA-A9EA-12F51AEC307F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchWithCQRS.Domain", "CleanArchWithCQRS.Domain\CleanArchWithCQRS.Domain.csproj", "{2EA3B68A-1161-4FD1-921B-17865096861D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchWithCQRS.Application", "CleanArchWithCQRS.Application\CleanArchWithCQRS.Application.csproj", "{61841B69-0E14-4C92-84F0-5B2839FA2CF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{732A978A-748E-44BA-A9EA-12F51AEC307F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{732A978A-748E-44BA-A9EA-12F51AEC307F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{732A978A-748E-44BA-A9EA-12F51AEC307F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{732A978A-748E-44BA-A9EA-12F51AEC307F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EA3B68A-1161-4FD1-921B-17865096861D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA3B68A-1161-4FD1-921B-17865096861D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA3B68A-1161-4FD1-921B-17865096861D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA3B68A-1161-4FD1-921B-17865096861D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61841B69-0E14-4C92-84F0-5B2839FA2CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61841B69-0E14-4C92-84F0-5B2839FA2CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61841B69-0E14-4C92-84F0-5B2839FA2CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61841B69-0E14-4C92-84F0-5B2839FA2CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
